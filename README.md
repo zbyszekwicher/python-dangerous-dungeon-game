@@ -1,8 +1,8 @@
-Dangerous Dungeon - Python Push Your Luck CLI Game
+Dangerous Dungeon - Python Push Your Luck Dungeon Crawler CLI Game
 
 
 
-Core Gameplay: Push-Your-Luck Dungeon Crawler
+Core Gameplay:
 
 
 
