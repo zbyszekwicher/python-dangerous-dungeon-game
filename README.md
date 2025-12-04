@@ -2,7 +2,7 @@ Dangerous Dungeon - Python Push Your Luck CLI Game
 
 
 
-A multi-file, text-based Dungeon Crawler/RPG developed in Python for the Command-Line Interface. This project make use of the game logic, and file persistence to save highscores.
+A multi-file, text-based Dungeon Crawler/RPG developed in Python for the Command-Line Interface.
 
 
 
