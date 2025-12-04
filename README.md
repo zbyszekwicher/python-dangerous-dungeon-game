@@ -54,7 +54,7 @@ Known Issues (Legacy Code)
 
 
 
-This project is presented as is to showcase early architectural design and game logic. If you run the game, you may encounter the following known bugs:
+This project is presented as is. If you run the game, you may encounter the following known bugs:
 
 
 
