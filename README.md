@@ -40,7 +40,7 @@ This means no one ever got as far as level 5.
 
 
 
-Project Context \& Status
+Project Context & Status
 
 
 
@@ -64,7 +64,7 @@ This project is presented as is. If you run the game, you may encounter the foll
 
 
 
-File Architecture \& Setup
+File Architecture & Setup
 
 
 
@@ -74,11 +74,11 @@ The project is structured across five interdependent modules and includes Englis
 
 Files
 
-&nbsp;- `Dangerous\_Dungeon\_Game.py`: Main entry point and settings menu.
+&nbsp;- `Dangerous_Dungeon_Game.py`: Main entry point and settings menu.
 
-&nbsp;- `script01.py` / `script1\_polski.py`: Core combat logic.
+&nbsp;- `script01.py` / `script1_polski.py`: Core combat logic.
 
-&nbsp;- `script2.py` / `script2\_polski.py`: English/Polish gameplay, story, monster lists, and loot tables.
+&nbsp;- `script2.py` / `script2_polski.py`: English/Polish gameplay, story, monster lists, and loot tables.
 
 &nbsp;- `highscores` (empty file): Required for score persistence.
 
@@ -88,7 +88,7 @@ Running the Game
 
 
 
-1\.  Clone the Repository:
+1.  Clone the Repository:
 
 &nbsp;   ```bash
 
@@ -98,11 +98,11 @@ Running the Game
 
 &nbsp;   ```
 
-2\.  Run the Main File:
+2.  Run the Main File:
 
 &nbsp;   ```bash
 
-&nbsp;   python Dangerous\_Dungeon\_Game.py
+&nbsp;   python Dangerous_Dungeon_Game.py
 
 &nbsp;   ```
 
